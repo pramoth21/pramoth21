@@ -16,6 +16,7 @@ I enjoy solving problems, building full-stack applications, and learning modern 
 - 💬 Ask me about **Java, PHP, or anything full-stack**
 - 🎯 Goal: To become a versatile developer who builds scalable and aesthetic digital products
 - 📍 Based in **Colombo, Sri Lanka**
+- 🌐 Check out my portfolio: [my-portfolio-eosin-theta-94.vercel.app](https://my-portfolio-eosin-theta-94.vercel.app/)
 - 📧 Reach me at **pramothpiumal7@gmail.com**
 
 ---
@@ -61,6 +62,9 @@ I enjoy solving problems, building full-stack applications, and learning modern 
   </a>
   <a href="https://github.com/pramoth21" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-eosin-theta-94.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
